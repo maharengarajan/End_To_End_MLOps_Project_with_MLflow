@@ -1,2 +1,3 @@
 from mlproject.components.data_ingestion import DataIngestion
 from mlproject.components.data_validation import DataValiadtion
+from mlproject.components.data_transformation import DataTransformation
