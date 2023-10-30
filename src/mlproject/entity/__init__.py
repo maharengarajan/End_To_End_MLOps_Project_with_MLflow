@@ -1,1 +1,1 @@
-from mlproject.entity.config_entity import DataIngestionConfig, DataValidationConfig, DataTransformationConfig
+from mlproject.entity.config_entity import DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig
