@@ -2,3 +2,4 @@ from mlproject.pipeline.st_01_data_ingestion import DataIngestionTrainingPipelin
 from mlproject.pipeline.st_02_data_validation import DataValidationTrainingPipeline
 from mlproject.pipeline.st_03_data_transformation import DataTransformationTrainingPipeline
 from mlproject.pipeline.st_04_model_trainer import ModelTrainerTrainingPipeline
+from mlproject.pipeline.st_05_model_evaluation import ModelEvaluationTrainingPipeline
