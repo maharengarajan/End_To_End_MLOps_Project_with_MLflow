@@ -54,3 +54,6 @@ MLFLOW_TRACKING_URI=https://dagshub.com/maharengarajan/End_To_End_MLOps_Project_
 MLFLOW_TRACKING_USERNAME=maharengarajan \
 MLFLOW_TRACKING_PASSWORD=d0af8cae7f0c8d195c580ac69666dfe9456157e1 \
 python script.py
+
+
+ECR repo URI: 920535735578.dkr.ecr.us-east-1.amazonaws.com/mlops
